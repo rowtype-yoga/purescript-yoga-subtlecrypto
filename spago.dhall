@@ -21,4 +21,6 @@ You can edit this file as you like.
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
+, license = "BSD-3-Clause"
+, repository = "https://github.com/rowtype-yoga/purescript-yoga-subtlecrypto.git"
 }

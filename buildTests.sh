@@ -2,5 +2,5 @@
 
 spago build
 echo "Bundling..."
-spago bundle-app -m Test.Main -t test.browser.js
+spago bundle --module Test.Main --outfile test.browser.js
 echo "Bundled."

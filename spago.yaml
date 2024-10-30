@@ -1,0 +1,21 @@
+package:
+  dependencies:
+  - aff
+  - aff-promise
+  - arraybuffer-types
+  - console
+  - effect
+  - either
+  - exceptions
+  - foreign
+  - functions
+  - maybe
+  - prelude
+  - transformers
+  - tuples
+  - unsafe-coerce
+  name: subtlecrypto
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 60.6.0
